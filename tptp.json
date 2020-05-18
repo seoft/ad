@@ -1,0 +1,56 @@
+{
+	"banner": {
+		"use": false,
+		"ads": [
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219619-8376e380-9958-11ea-9973-6fa523827c2a.png",
+				"guide": "https://naver.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219634-8540a700-9958-11ea-9e12-2b303381c6cc.png",
+				"guide": "https://google.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219640-870a6a80-9958-11ea-9d56-98e3bd88c4cc.png",
+				"guide": "https://kakao.com"
+			}
+		],
+		"ratio": 0.1
+	},
+	"exit": {
+		"use": false,
+		"ads": [
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219644-896cc480-9958-11ea-801a-2accc2f2c5d1.png",
+				"guide": "https://naver.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219652-8bcf1e80-9958-11ea-9f5c-a1073c66233c.png",
+				"guide": "https://google.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219661-8eca0f00-9958-11ea-9dcb-76f2d1b62190.png",
+				"guide": "https://kakao.com"
+			}
+		],
+		"ratio": 0.1
+	},
+	"afterCreate": {
+		"use": false,
+		"ads": [
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219644-896cc480-9958-11ea-801a-2accc2f2c5d1.png",
+				"guide": "https://naver.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219652-8bcf1e80-9958-11ea-9f5c-a1073c66233c.png",
+				"guide": "https://google.com"
+			},
+			{
+				"image": "https://user-images.githubusercontent.com/55025826/82219661-8eca0f00-9958-11ea-9dcb-76f2d1b62190.png",
+				"guide": "https://kakao.com"
+			}
+		],
+		"ratio": 0.1
+	}
+}
