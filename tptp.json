@@ -15,7 +15,7 @@
 				"guide": "https://kakao.com"
 			}
 		],
-		"ratio": 0.1
+		"ratio": 50
 	},
 	"exit": {
 		"use": false,
@@ -33,7 +33,7 @@
 				"guide": "https://kakao.com"
 			}
 		],
-		"ratio": 0.1
+		"ratio": 50
 	},
 	"afterCreate": {
 		"use": false,
@@ -51,6 +51,6 @@
 				"guide": "https://kakao.com"
 			}
 		],
-		"ratio": 0.1
+		"ratio": 50
 	}
 }

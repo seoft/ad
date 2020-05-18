@@ -7,7 +7,7 @@ data class AdResponse(
 data class Ad(
     val use: Boolean,
     val ads: List<AdPage>,
-    val ratio: Float
+    val ratio: Int
 )
 
 data class AdPage(
