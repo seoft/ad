@@ -1,6 +1,6 @@
 {
 	"banner": {
-		"use": false,
+		"use": true,
 		"ads": [
 			{
 				"image": "https://user-images.githubusercontent.com/55025826/82219619-8376e380-9958-11ea-9973-6fa523827c2a.png",
@@ -18,7 +18,7 @@
 		"ratio": 50
 	},
 	"exit": {
-		"use": false,
+		"use": true,
 		"ads": [
 			{
 				"image": "https://user-images.githubusercontent.com/55025826/82219644-896cc480-9958-11ea-801a-2accc2f2c5d1.png",
@@ -36,7 +36,7 @@
 		"ratio": 50
 	},
 	"afterCreate": {
-		"use": false,
+		"use": true,
 		"ads": [
 			{
 				"image": "https://user-images.githubusercontent.com/55025826/82219644-896cc480-9958-11ea-801a-2accc2f2c5d1.png",
