@@ -18,7 +18,7 @@
 		"ratio": 50
 	},
 	"exit": {
-		"use": false,
+		"use": true,
 		"ads": [
 			{
 				"image": "https://lh3.googleusercontent.com/proxy/7Vd6CLHRn-ZP27sLneRtOQfc5tnNgepRev9tU96IuYFW1vcVr899OewTpDTzFvVqKuD9Jx1ehipwtHAnGb6OLGOk_yAzpy6b4eruc1Yp_P-Z57-nJfj-B-7csd7TKkzEnDVCya-0GkDe8XiyVb_8fUEOXdIDnqy9YIAbhDpkfm4L0SMzoVjql1plyppFuA",
