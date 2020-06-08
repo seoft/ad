@@ -11,7 +11,7 @@
 				"guide": "https://play.google.com/store/apps/details?id=kr.co.seoft.sf"
 			}
 		],
-		"ratio": 80
+		"ratio": 50
 	},
 	"exit": {
 		"use": true,
@@ -25,7 +25,7 @@
 				"guide": "https://play.google.com/store/apps/details?id=kr.co.seoft.sf"
 			}
 		],
-		"ratio": 80
+		"ratio": 50
 	},
 	"afterCreate": {
 		"use": true,
